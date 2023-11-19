@@ -27182,23 +27182,23 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I am Olakunle, Goal-oriented and a Graduate of Accounting who is passionate about front-end engineering. Passionate about website and application development and currently a member of numerous developer communities like Ingressive For Good, DevCareer Africa, Tech Hub Community, I4GxZuri community, Frontend Mentor community, codewithAgbaAkin on discord community, Google Andela Developers(GADS), DevCareer Africa and Altschool Africa Community. I'm also passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
+    "Software engineering",
     "User experience",
     "Inclusive design",
     "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design", 
+    "Web development",
+    "HTML, CSS, JavaScript, REACT", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my software engineering experience. I continually look for new and better ways to make tech accessible by all.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
